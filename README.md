@@ -11,3 +11,7 @@ ASCII sorting.py - sorting ammount of words in alphabetical and overall ASCII va
 Spiral.py - drawing a spiral with a turtle using some mathematical algorithms
 
 Two-end sorting.py - sorting an array of values from two ends
+
+Java Course
+
+Anketa.java - interface for gathering some info about students and storing it in separate text-files
