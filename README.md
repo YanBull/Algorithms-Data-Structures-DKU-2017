@@ -18,4 +18,5 @@ Anketa.java - interface for gathering some info about students and storing it in
 
 TicTacToe - a server supposed to be located in a LAN to be a platform for two players playing tictactoe game with each each other, server can also be a client
 code could be modified with upgraded system of searching for free ports on a server to connect to it
-
+ 
+ InetAdressTest - a java code that shows you your current IP-Adress and a couple of IPs of other web-pages
