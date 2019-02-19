@@ -15,3 +15,7 @@ Two-end sorting.py - sorting an array of values from two ends
 Java Course
 
 Anketa.java - interface for gathering some info about students and storing it in separate text-files
+
+TicTacToe - a server supposed to be located in a LAN to be a platform for two players playing tictactoe game with each each other, server can also be a client
+code could be modified with upgraded system of searching for free ports on a server to connect to it
+
